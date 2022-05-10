@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/e35/94896026_110279330503859_3184523709113316515_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=IWPZ7g1TOG8AX9b7l1C&oh=84b9ef13980a3a69b7e49b24713db875&oe=5ED2DE12",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\u2714Cevap i\u00e7in 3 kez t\u0131kla \u2682\u2714 #kpss2020 #kpss #kpsstarih #kpss\u00f6nlisans2020 #kpssvatanda\u015fl\u0131k #kpssg\u00fcncelbilgiler #kpssco\u011frafya #kpss2018 #kpss2019 #kpssg\u00fcncel #kpssalan #kpsssoru #kpssguncel #cografya #kpssgenelk\u00fclt\u00fcr #kpssnotlar\u0131m #kpsslisans #cografya #tarih #tarihnotlari #2020tayfa #instagram #istanbul #sinav #deneme #kpssgenelkulturgenelyetenek #soru\n#uluda\u011f #tyt #ayt\n.\n.\n.\n.\n. \u2714 \ud83d\udece Bu tarz g\u00f6nderilerin devam\u0131n\u0131 istiyorsan\u0131z destek ama\u00e7l\u0131 be\u011fenebilirsiniz\u2764 .\n.\n.\n.\n.\n. \ud83d\udea8 \nT\u00fcm g\u00f6nderilerden haberdar olmak i\u00e7in bildirimleri a\u00e7\u0131n\u0131z \u23f0 .\n.\n.\n.\n.\n.\n. \ud83d\udc49\ud83d\udc49\ud83d\udc49 G\u00f6rmek istedi\u011finiz arkada\u015flar\u0131 l\u00fctfen yoruma etiketleyiniz ... .\n.\n.\n."
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766781690230548",
+    "is_video": false,
+    "owner": {
+        "id": "27194176707"
+    },
+    "shortcode": "B_m3DVkHTcU",
+    "taken_at_timestamp": 1588254376,
+    "thumbnail_src": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94896026_110279330503859_3184523709113316515_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=IWPZ7g1TOG8AX9b7l1C&oh=e61deb11d71d837546f125b803ce5163&oe=5ED41375"
+}

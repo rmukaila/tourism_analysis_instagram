@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 565,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/95140117_134832534796328_8856055622728019544_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=dKBonOrhXAYAX8RubG0&oh=24e3a73f5ccc682d3337e9c68d2138b8&oe=5ED28B0C",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "@kkara3141\n&\n&\n&\n#istanbul #evarkada\u015f\u0131arayanlar #evarkada\u015f\u0131\n#Ankara #odaarkada\u015f\u0131 #kiral\u0131koda\n#becayi\u015fistanbul #becayi\u015f #kadikoy #istanbuluniversitesi #yildizteknikuniversitesi #galatasaray\u00fcniversitesi #beykent\u00fcniversitesi #ni\u015fanta\u015f\u0131\u00fcniversitesi #istanbulaydinuniversitesi #bilgiuniversity #oda #airbnbturkey #airbnb #ev #gunlukkiralik #kiral\u0131kev #kiral\u0131kdaire #taksim #beyo\u011flu #karantina #evdekal #covid"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766781748536611",
+    "is_video": false,
+    "owner": {
+        "id": "25454983064"
+    },
+    "shortcode": "B_m3DVnluUj",
+    "taken_at_timestamp": 1588254376,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/c198.0.435.435a/95140117_134832534796328_8856055622728019544_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=dKBonOrhXAYAX8RubG0&oh=d0246a063dda50b70299ec053d0bea7c&oe=5ED37424"
+}

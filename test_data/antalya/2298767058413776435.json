@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1077,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/94824465_113009933515501_1933351563663520488_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Cjr2ziKJ-akAX_LxPj7&oh=e0e288877501874ef7d272bcfc024a91&oe=5ED2DBCD",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#valentino #elegante #ye\u015filk\u00f6y #florya #etiler #ni\u015fanta\u015f\u0131 #akmerkez #istinyepark #zorlucenter #istanbul #italy #izmir #bursa #ankara #antalya #turkey 02125730305 05337600794"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767058413776435",
+    "is_video": false,
+    "owner": {
+        "id": "933129411"
+    },
+    "shortcode": "B_m3HXSH24z",
+    "taken_at_timestamp": 1588254409,
+    "thumbnail_src": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c2.0.1436.1436a/s640x640/94824465_113009933515501_1933351563663520488_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Cjr2ziKJ-akAX_LxPj7&oh=dc85835ae0c855a57b1324bd934c1704&oe=5ED4187B"
+}

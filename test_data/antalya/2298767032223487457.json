@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/e35/95217424_248298993208552_849009976858302013_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Ou7bfMstxIcAX9SZc5B&oh=1c3d863749eb33a0be010445bad46def&oe=5ED60EAB",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udc49YEN\u0130 SEZON ANNE PENYE M-L-XL\n\ud83d\udcb8\ud83d\udcb8\ud83d\udcb816 TL \ud83d\udce6\ud83d\udce6\ud83d\udce6HERYERE KAPIDA \u00d6DEMEL\u0130 KARGO \ud83d\udcde\ud83d\udcde\ud83d\udcde0538 405 47 03 \ud83d\udccc\ud83d\udccc\ud83d\udccc81 \u0130LE UYGUN KARGO \u0130MKANI#MODA#BAYAN#PENYE#WOMEN #ANNE#FASHION#TA\u015eLI#ANNELERG\u00dcN\u00dc#DEN\u0130ZL\u0130#G\u0130Y\u0130M#\u0130STANBUL#MARKA#\u0130STANBUL#ANTALYA#FETH\u0130YE#AYDIN#\u0130ZM\u0130R#\u015eIK#BUTIK"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767032223487457",
+    "is_video": false,
+    "owner": {
+        "id": "8449269834"
+    },
+    "shortcode": "B_m3G-5D1Xh",
+    "taken_at_timestamp": 1588254406,
+    "thumbnail_src": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95217424_248298993208552_849009976858302013_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Ou7bfMstxIcAX9SZc5B&oh=27f63a2fa41c358dbec5d655afa10294&oe=5ED41D5A"
+}

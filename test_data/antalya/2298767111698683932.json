@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/95216060_1591506307664444_2751285048483097505_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=KBfrCqYOvq0AX93jvdR&oh=cfd7015e39851fd36081bc65161c96e6&oe=5ED5DF08",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "1 May\u0131s Emek ve Dayan\u0131\u015fma G\u00fcn\u00fc Kutlu Olsun\n.\n.\n#1mayis #iscibayrami #medila #t\u0131bbianaliz #laboratuvar #korona #covid19 #antalya #salg\u0131n #pandemi #kantesti #hivtesti #evdekanalma #g\u00fcvenilir"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767111698683932",
+    "is_video": false,
+    "owner": {
+        "id": "5315663245"
+    },
+    "shortcode": "B_m3II6Jpgc",
+    "taken_at_timestamp": 1588254415,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95216060_1591506307664444_2751285048483097505_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=KBfrCqYOvq0AX93jvdR&oh=bd9ccb931c31f622251219031f9f5f98&oe=5ED59F44"
+}

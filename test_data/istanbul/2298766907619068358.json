@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/95014011_323978775240152_178865699761539772_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=n5LdZVg5jcsAX-7Ld3U&oh=6b5cfa57051d9c28af1bc4431e4a8a14&oe=5ED2B572",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Sizlerde evinizin b\u00fct\u00fcn ihtiya\u00e7alar\u0131n\u0131 \u00fccretsiz \u00fcye olarak indirimli alabilir dilerseniz bu \u00fcr\u00fcnleri sat\u0131p para kazananilirsiniz. Bunun i\u00e7in yapman\u0131z gereken profilimdeki linkten \u00fcye olman\u0131z ( \u00fcyelik \u00fccretsiz, kap\u0131da pe\u015fin \u00f6deme, iade garantisi )\n. #a101 #bim #sunum #\u015fok #\u00e7eyiz #indirim #sunum\u00f6nemlidir#ke\u015ffet #englishhome #dekor #dekorasyon #d\u00fczen#istanbul #ceyiz #ikea #migros #a101ganimetleri#a101akt\u00fcel\u00fcr\u00fcnler #mutfak #kampanya #instagram#al\u0131\u015fveri\u015f #bimaktuel #madamecoco #duzen #kesfet#aktuelurunler #yemek #dekorasyonfikirleri #\u00e7eyizl"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766907619068358",
+    "is_video": false,
+    "owner": {
+        "id": "2872509030"
+    },
+    "shortcode": "B_m3FK2DsnG",
+    "taken_at_timestamp": 1588254391,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95014011_323978775240152_178865699761539772_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=n5LdZVg5jcsAX-7Ld3U&oh=cd95efa5301c207f7d683bc4e9d43d96&oe=5ED3DE83"
+}

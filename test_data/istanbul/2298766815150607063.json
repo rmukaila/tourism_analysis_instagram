@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 640,
+        "width": 640
+    },
+    "display_url": "https://instagram.fsaw1-10.fna.fbcdn.net/v/t51.2885-15/e35/95236543_2617655278492350_1071047988596554592_n.jpg?_nc_ht=instagram.fsaw1-10.fna.fbcdn.net&_nc_cat=106&_nc_ohc=kMn6zMxI9u8AX_WFpME&oh=3f9bd316940be7c2d575654228af9604&oe=5ED3BDE0",
+    "edge_liked_by": {
+        "count": 2
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "#TagStaGram #love #friends #photooftheday #selfie #amapicofthedaypzing #instalike #igers #instadaily #fun #iphoneonly #instagood #bestoftheday #webstagram #colorful #style #swag #istanbul  #summer #bostanci #bagdatcaddesi #huzur #sea #sunday #\u015fiirsokakta #doga #istanbul #nature @korkutozgur @autopariss"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766815150607063",
+    "is_video": false,
+    "owner": {
+        "id": "585458228"
+    },
+    "shortcode": "B_m3D0uggrX",
+    "taken_at_timestamp": 1588254380,
+    "thumbnail_src": "https://instagram.fsaw1-10.fna.fbcdn.net/v/t51.2885-15/e35/95236543_2617655278492350_1071047988596554592_n.jpg?_nc_ht=instagram.fsaw1-10.fna.fbcdn.net&_nc_cat=106&_nc_ohc=kMn6zMxI9u8AX_WFpME&oh=3f9bd316940be7c2d575654228af9604&oe=5ED3BDE0"
+}

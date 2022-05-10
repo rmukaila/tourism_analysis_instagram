@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 750,
+        "width": 750
+    },
+    "display_url": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/e35/95569671_247896653283886_4605526019026523824_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=110&_nc_ohc=lRpE0QiK2wsAX8aVeCa&oh=ba668e99fdfa9e3f0ac21a337d6a010f&oe=5ED431AA",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Pizzacinin akl\u0131n\u0131 alan t\u00fcrk k\u0131z\u0131. .\n.\nSesli t\u00fcrk videolar\u0131 i\u00e7in azg\u0131n bayanlar\u0131 dm bekliyorum..\n.\n.\n#izmir #takipcikazan #takipedenitakipederim #istanbul\n#ankara #T\u00fcrkiye #followforfollowback #instagood #tb #tbt #okul #ramazan #nisan #vir\u00fcs #karantina #kapal\u0131 #yemektarifleri #itiraf #olgunkad\u0131nlar31 #dul #evli #yaln\u0131zl\u0131k #turban #kapal\u0131bayanlar #siksilk #evdekal #simsicak #twerk #takipet #tiktokt\u00fcrkiye"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766916065499379",
+    "is_video": false,
+    "owner": {
+        "id": "34398615405"
+    },
+    "shortcode": "B_m3FStgRjz",
+    "taken_at_timestamp": 1588254392,
+    "thumbnail_src": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95569671_247896653283886_4605526019026523824_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=110&_nc_ohc=lRpE0QiK2wsAX8aVeCa&oh=a3353f74fc5e62fd15f06d10c064e366&oe=5ED46B4D"
+}

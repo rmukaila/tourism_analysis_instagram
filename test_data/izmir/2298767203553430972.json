@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/e35/94998817_607862039817083_5870380082759780539_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=BGnunF7llWYAX-jD3Gh&oh=fc575a8f56aefc87aa01f9b6d807ab03&oe=5ED28241",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "En sevdi\u011fim bak\u0131m \u00fcr\u00fcnlerinden diyebilirim minidolin ferahl\u0131\u011f\u0131 sayesinde cildimi daha \u00e7ok seviyorum ve g\u00fcvenle kullan\u0131yorum \ud83d\udc4d  #bak\u0131m #g\u00fczellik #makyaj #istanbul #makeup #kad\u0131n #kozmetik #t\u00fcrkiye #izmir #ankara #moda #farmasi #hair #ipekkirpik #beauty #ciltbak\u0131m\u0131 #kuaf\u00f6r #parf\u00fcm #bursa #fashion #turkey #ombre #love #women #kirpik #sa\u011fl\u0131k #bayan #instagood #hairstyle #instagram"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767203553430972",
+    "is_video": false,
+    "owner": {
+        "id": "22107679525"
+    },
+    "shortcode": "B_m3JedHs28",
+    "taken_at_timestamp": 1588254426,
+    "thumbnail_src": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94998817_607862039817083_5870380082759780539_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=BGnunF7llWYAX-jD3Gh&oh=37e24f353d8ffb73c72132c1b6917161&oe=5ED319A6"
+}

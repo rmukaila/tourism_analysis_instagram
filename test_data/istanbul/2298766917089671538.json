@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 613,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/e35/95425318_320311232270558_7716162800996025999_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=nP5K_EPXaRkAX-RJRGg&oh=933b9ff7c815895bdec639527a041a0a&oe=5ED632C6",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Taksim Meydan\u0131 ve Cumhuriyet An\u0131t\u0131, 1 May\u0131s Emek ve Dayan\u0131\u015fma G\u00fcn\u00fc \u00f6ncesinde g\u00fcvenlik \u00f6nlemleri nedeniyle bariyerlerle \u00e7evrildi.\n\n\u0130\u00e7i\u015fleri Bakanl\u0131\u011f\u0131 taraf\u0131ndan yay\u0131nlanan genelgeyle koronavir\u00fcsle m\u00fccadele tedbirleri kapsam\u0131nda 1 \u2013 3 May\u0131s tarihlerinde soka\u011fa \u00e7\u0131kma yasa\u011f\u0131 ilan edilmi\u015fti. 1 May\u0131s Emek ve Dayan\u0131\u015fma G\u00fcn\u00fc nedeniyle yasa\u011fa ra\u011fmen kutlama i\u00e7in izinsiz olarak Taksim Meydan\u0131\u2019na \u00e7\u0131kmak isteyebilecek gruplara kar\u015f\u0131 polis ekipleri, birtak\u0131m \u00f6nlemler ald\u0131. Bir s\u00fcre \u00f6nce getirilen bariyerler bug\u00fcn ekiplerce Taksim Meydan\u0131 ve Cumhuriyet An\u0131t\u0131 \u00e7evresine yerle\u015ftirildi.\n\n#z\u00fcmr\u00fcthaber #istanbul #taksimmeydan\u0131 #1may\u0131s #koronavirus #evdekal #haberler"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766917089671538",
+    "is_video": false,
+    "owner": {
+        "id": "31545268613"
+    },
+    "shortcode": "B_m3FTqjLly",
+    "taken_at_timestamp": 1588254392,
+    "thumbnail_src": "https://instagram.fsaw1-4.fna.fbcdn.net/v/t51.2885-15/e35/c233.0.613.613a/95425318_320311232270558_7716162800996025999_n.jpg?_nc_ht=instagram.fsaw1-4.fna.fbcdn.net&_nc_cat=102&_nc_ohc=nP5K_EPXaRkAX-RJRGg&oh=71c9c4130ecce718e7867671aca819dc&oe=5ED42694"
+}

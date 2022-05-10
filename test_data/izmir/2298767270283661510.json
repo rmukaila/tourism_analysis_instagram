@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/fr/e15/s1080x1080/94769412_235236284407012_6705530353934977105_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Az_PwWCEHOUAX9OfxVr&oh=995818b21c8653dca2d59293c94fe251&oe=5ED4E565",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Do\u011fadan Memleketinize\nMemleketinizden Sofralar\u0131n\u0131za...\n#organik #do\u011fal #istanbul #organic #sa\u011fl\u0131k #izmir #sa\u011fl\u0131kl\u0131beslenme #lezzet #turkey #organik\u00fcr\u00fcnler #dogal #sa\u011fl\u0131kl\u0131ya\u015fam #ankara #sipari\u015f #yemek #diyet #evyap\u0131m\u0131 #kahvalt\u0131 #sagliklibeslenme #k\u00f6y #bursa #butik #bodrum #food #love #antalya #instagram #yenisezon #s\u00fct #taze"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767270283661510",
+    "is_video": false,
+    "owner": {
+        "id": "34586805343"
+    },
+    "shortcode": "B_m3KcmjVDG",
+    "taken_at_timestamp": 1588254434,
+    "thumbnail_src": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94769412_235236284407012_6705530353934977105_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=Az_PwWCEHOUAX9OfxVr&oh=f4841606046a48ae18561a2c93ab5de8&oe=5ED5335F"
+}

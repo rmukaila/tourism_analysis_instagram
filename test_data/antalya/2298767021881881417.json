@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1080,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/94855475_575343663105380_1626886427199204222_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=xBShvOzfghoAX9cp8WM&oh=168b59f1b3ef28e9d3b0bb61f0039d58&oe=5ED3F348",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udcaf KOMB\u0130N SEVERLERE \u00d6ZLE KOLEKS\u0130YON.\n.\n\ud83d\udc4c \u015eIK G\u00d6R\u00dcNMEK @\u00e7ar\u0131kistanbul ile  hem \u00e7ok basit, hemde \u00e7ok uygun.\n.\n\ud83d\ude9b Ayn\u0131 g\u00fcn \u00fccretsiz kargo.\n.\n\ud83d\udd01 D\u0131\u015far\u0131da giyilmemi\u015f \u00fcr\u00fcnleri 7 g\u00fcn i\u00e7inde de\u011fi\u015ftirebilirsiniz. .\n\ud83d\udd01 De\u011fi\u015fimde kargo \u00fccreti al\u0131c\u0131ya aittir.\n.\n\u2716\ufe0f iade yok. .\n\u260e\ufe0f Detayl\u0131 bilgi ve irtibat i\u00e7in.\n.\n\u260e\ufe0f Dm. Veya WhatsApp.\n.\n\u260e\ufe0f 0530 076 0434\n.\n#bayanayakkab\u0131 #klasikayakkab\u0131 #abiyemodelleri #abiyekombinleri #stiletto #stil #tarz #tasar\u0131m #moda #model #istanbul #izmir #Ankara #antalya #alanya #bursa #diyarbak\u0131r #eski\u015fehir #galatasaray #besiktas #fenerbahce #tbt"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767021881881417",
+    "is_video": false,
+    "owner": {
+        "id": "3613341289"
+    },
+    "shortcode": "B_m3G1QpvNJ",
+    "taken_at_timestamp": 1588254405,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94855475_575343663105380_1626886427199204222_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=xBShvOzfghoAX9cp8WM&oh=c7459888636f47f5cac5981779e41e97&oe=5ED299A3"
+}

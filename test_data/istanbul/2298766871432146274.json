@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1349,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/e35/94900627_226861288754494_6180963959783189986_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=110&_nc_ohc=nXLTf6r7fIsAX82__PS&oh=450d60fa3ecb6879d0a17e0025ef0dd2&oe=5ED400C8",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udccdBu konu hakk\u0131nda ne d\u00fc\u015f\u00fcn\u00fcyorsunuz?\n.\n.\n.\n\n#mizah #komedi #komik #istanbul #caps #e\u011flence #izmir #ankara #takip #a\u015fk #komikvideolar #vine #video #t\u00fcrkiye #karikat\u00fcr #fatihaltayl\u0131 #takip\u00e7ikazan #tbt #\u015fiir #mizaht\u00fcrkiye #diyanet #kitap #eglence #instagram #galatasaray #kahkaha #s\u00f6z #ke\u015ffet #sevgi #edebiyat"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766871432146274",
+    "is_video": false,
+    "owner": {
+        "id": "34346126602"
+    },
+    "shortcode": "B_m3EpJJi1i",
+    "taken_at_timestamp": 1588254387,
+    "thumbnail_src": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.117.937.937a/s640x640/94900627_226861288754494_6180963959783189986_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=110&_nc_ohc=nXLTf6r7fIsAX82__PS&oh=238a1f14a7b30f20404b2b6622a09305&oe=5ED2AE72"
+}

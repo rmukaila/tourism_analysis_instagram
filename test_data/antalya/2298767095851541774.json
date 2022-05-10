@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/94894055_1191268451220472_3136589164395339909_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oedSx9tJOp4AX-ZW34i&oh=3ea742911c2f4467cc1f5d55d02e1332&oe=5ED39B81",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Pamuklu Dantel Elbise son S ve M beden \ud83e\udd0d esnek kuma\u015ft\u0131r www.butiknora.com\nWhatsapp 05510204102 \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- #antalyabutik #moda #butiknora #antalya #ootd  #evdekal #elbise #elbisemodelleri #ekruelbise #dantelelbise #ekrudantelelbise #butikantalya #butik"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767095851541774",
+    "is_video": false,
+    "owner": {
+        "id": "1365110290"
+    },
+    "shortcode": "B_m3H6JlmUO",
+    "taken_at_timestamp": 1588254414,
+    "thumbnail_src": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/94894055_1191268451220472_3136589164395339909_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=104&_nc_ohc=oedSx9tJOp4AX-ZW34i&oh=a3d02d747846b5331953b036cd912c9d&oe=5ED31E25"
+}

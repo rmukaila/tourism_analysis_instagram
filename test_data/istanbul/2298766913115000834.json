@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1281,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/e35/95012876_584003479179789_7581922559192242952_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=109&_nc_ohc=FidZEYpFQzMAX9WUZhX&oh=837bb6e1dd5925762e1222050b8ffdd2&oe=5ED3B92D",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Bayan spor tak\u0131mlar\u0131m\u0131zda bedenlerimiz mevcuttur #toptangiyim #toptanal\u0131\u015fveri\u015f #toptankiyafet #toptanelbise #tayt #toptanbutikkolik #sportaytlar #sporbayantayt #spor #sporgiyimbayan #bayansporgiyim #butik #bayangiyimbutik #giyim #avantaj #antalya #al\u0131\u015fveri\u015f #ankara #istanbul #izmir"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298766913115000834",
+    "is_video": false,
+    "owner": {
+        "id": "31081181650"
+    },
+    "shortcode": "B_m3FP9pBAC",
+    "taken_at_timestamp": 1588254392,
+    "thumbnail_src": "https://instagram.fsaw1-6.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.100.1070.1070a/s640x640/95012876_584003479179789_7581922559192242952_n.jpg?_nc_ht=instagram.fsaw1-6.fna.fbcdn.net&_nc_cat=109&_nc_ohc=FidZEYpFQzMAX9WUZhX&oh=2361e52776b00028a59a5397d4470ae2&oe=5ED3DEC0"
+}

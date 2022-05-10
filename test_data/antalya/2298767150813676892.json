@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1174,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/95258661_264932247995715_7261427394384214664_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EkkJgZVPONoAX9tiVES&oh=beda548e147f79c6313ee15016f44bd8&oe=5ED3447C",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Gen\u00e7 Yumurcak erkeklerine \u00f6zel \u00e7ok \u015f\u0131k spor kombin \ud83d\udd25\ud83d\udc51 3/14 ya\u015f \nT\u00dcRK\u0130YE'N\u0130N HERYER\u0130NE KARGO \n#kayseri #istanbul #ankara #konya #kocaeli #antalya #mersin #adana #kahramanmara\u015f #gaziantep #diyarbak\u0131r #erzurum #trabzon #rize #samsun #sakarya #bursa #izmir #eski\u015fehir #k\u0131r\u015fehir #nev\u015fehir #sivas #philipplein #valentino #gencyumurcak #gen\u00e7yumurcak"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767150813676892",
+    "is_video": false,
+    "owner": {
+        "id": "4726981152"
+    },
+    "shortcode": "B_m3ItVlgVc",
+    "taken_at_timestamp": 1588254420,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.47.1080.1080a/s640x640/95258661_264932247995715_7261427394384214664_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=EkkJgZVPONoAX9tiVES&oh=9225ff1aae82ce4c86f34f47c37bf815&oe=5ED37EB2"
+}

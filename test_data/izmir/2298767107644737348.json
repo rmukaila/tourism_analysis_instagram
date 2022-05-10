@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 766,
+        "width": 750
+    },
+    "display_url": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/e35/95259652_2913568595388051_2477562872354127541_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Jep-s8lJQ3gAX9dY2QV&oh=585124f96a656bc266282b77cc94cf38&oe=5ED2E4FB",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Ben \u015fimdi burda oktar durukan  hangi filmden hat\u0131rl\u0131yorsunuz desem eminim hepiniz ger\u00e7ek tosunpa\u015fa der\n.\n.\n\nKe\u015ffeten g\u00f6renler en g\u00fczel \u015fark\u0131lar i\u00e7in takip edin sayfay\u0131 @demamuzike\n.\n.\n\n#stran\u00a0#k\u00fcrt\u00e7e\u00a0#istanbul\u00a0#mardin\u00a0@demamuzike\u00a0#amed\u00a0#kurdi\u00a0#van\u00a0#kurdish\u00a0#halay\u00a0#dersim\u00a0#hakkari\u00a0#govend\u00a0#mu\u015f\u00a0#diyarbak\u0131r\u00a0#bitlis\u00a0#kurtcemuzik\u00a0#batman\u00a0#m\u00fczik\u00a0#a\u015fk\u00a0#ankara\u00a0#video\u00a0#instagram\u00a0#izmir\u00a0#\u015fiir\u00a0#tbt\u00a0#kurdistan\u00a0#love\u00a0#malatya\u00a0#diyarbakir\u00a0#rojava"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767107644737348",
+    "is_video": false,
+    "owner": {
+        "id": "10089869130"
+    },
+    "shortcode": "B_m3IFIhEdE",
+    "taken_at_timestamp": 1588254415,
+    "thumbnail_src": "https://instagram.fsaw1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.8.720.720a/s640x640/95259652_2913568595388051_2477562872354127541_n.jpg?_nc_ht=instagram.fsaw1-5.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Jep-s8lJQ3gAX9dY2QV&oh=294ca662d77f04852d14b64d96678fbc&oe=5ED3D406"
+}

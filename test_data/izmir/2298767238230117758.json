@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1350,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/95554069_264309854605885_4316970509516363599_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=c2lKesQF8e0AX93AWY3&oh=ef16d1e04d2a4afc20e52e294c38a6a2&oe=5ED3D326",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "Utan\u0131r insan b\u00f6yle g\u00fczel olunur mu \ud83c\udfb6 \nOnlar nas\u0131l dudaklar \ud83d\udc44 \nOnlar nas\u0131l g\u00f6zler \ud83d\udc40\n\n#boyama #rich #f\u0131r\u00e7a #fular #kirpik #ruj #oje #eskitme #eskitmeboyama #bursa #istanbul #ankara #izmir  #dekorasyon #dekor #sanat #tasar\u0131m #boya #ah\u015fapboyama #sunum #hobi #tablo #polyester #cadenceboya #polyesterboyama #hediyelik #boyamateknikleri #renkler #ruhumaiyigeliyor #ruhunkimyasi"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767238230117758",
+    "is_video": false,
+    "owner": {
+        "id": "33907283098"
+    },
+    "shortcode": "B_m3J-wAw1-",
+    "taken_at_timestamp": 1588254431,
+    "thumbnail_src": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/95554069_264309854605885_4316970509516363599_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=c2lKesQF8e0AX93AWY3&oh=058afd187ecf1df1f51136f4236665e5&oe=5ED5B8B7"
+}

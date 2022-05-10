@@ -1,0 +1,32 @@
+{
+    "__typename": "GraphImage",
+    "comments_disabled": false,
+    "dimensions": {
+        "height": 1173,
+        "width": 1080
+    },
+    "display_url": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/95012192_2658444051065737_8968666562283500043_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=a6wW8glZyXkAX9nDooE&oh=10c2bb430c8839fa5680458627efc32f&oe=5ED5A891",
+    "edge_liked_by": {
+        "count": 0
+    },
+    "edge_media_to_caption": {
+        "edges": [
+            {
+                "node": {
+                    "text": "\ud83d\udc47\ud83c\udffbSipari\u015f ve detay\ud83d\udc47\ud83c\udffb\n\ud83d\udce9DM \ud83d\udce9\n\u263a\ufe0f64.99\u20ba\u263a\ufe0f\n\ud83d\udc55Slim Fit\n\ud83d\udcafKETEN\n\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0fS M L XL XXL\n#tshirt #tshirtdesign #istanbul #izmir #antalya #moda #tarz #\u015f\u0131k #gen\u00e7lik #lise #\u00fcniversite #kastamonu\u00fcniversitesi #sinop #dat\u00e7a #marmaris #inebolu #abana #bozkurtmeydan\u0131 #cide #sahil #karadeniz #akdeniz #g\u00f6mlek #slimfit #bayraml\u0131k #ramazan #jean"
+                }
+            }
+        ]
+    },
+    "edge_media_to_comment": {
+        "count": 0
+    },
+    "id": "2298767205600164742",
+    "is_video": false,
+    "owner": {
+        "id": "1577168467"
+    },
+    "shortcode": "B_m3JgXHXuG",
+    "taken_at_timestamp": 1588254427,
+    "thumbnail_src": "https://instagram.fsaw1-9.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.62.1440.1440a/s640x640/95012192_2658444051065737_8968666562283500043_n.jpg?_nc_ht=instagram.fsaw1-9.fna.fbcdn.net&_nc_cat=101&_nc_ohc=a6wW8glZyXkAX9nDooE&oh=57acbe4ef097d61a70c0a297ad3f0769&oe=5ED6094D"
+}
